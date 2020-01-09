@@ -1,3 +1,4 @@
+
 .row1 {
     width: 600px; 
     margin-top: 50px;
@@ -26,7 +27,7 @@ h1 {
     width: 300px;
     min-height: 60px;
     vertical-align: top;
-    background-color: lavender;
+    background-color: rgb(214, 183, 247);
     text-align: center;
 }
 .row4 {
@@ -35,5 +36,5 @@ h1 {
 }
 
 .row5 {
-    width: 
+     
 }
