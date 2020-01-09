@@ -1,13 +1,39 @@
-.container {
+.row1 {
+    width: 600px; 
     margin-top: 50px;
     padding: 20px; 
-    background-color: grey;
+    background-color: lightgreen;
     
 }
-.row {
+.row2 {
     margin-top: 75px;
+    width: 600px; 
+    margin-top: 50px;
+    padding: 20px; 
+    background-color: lightgreen;
+    
 }
 
 h1 {
     color: red; 
+}
+
+.sec1 {
+    background-color:lightblue;
+}
+.col {
+    display: inline-block;
+    width: 300px;
+    min-height: 60px;
+    vertical-align: top;
+    background-color: lavender;
+    text-align: center;
+}
+.row4 {
+    width: 600px;
+    background-color: lightgreen;
+}
+
+.row5 {
+    width: 
 }
